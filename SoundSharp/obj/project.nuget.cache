@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GBVMVwvfDoH6b9cQNLy98pBE4EssazPLhLaynDDz2Z/fAKCGah+zSRLmtFIsseExfQA0hwzfYAn0kavWkxaQAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cbijt\\JetbrainsProjects\\SoundSharp\\SoundSharp\\SoundSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cbijt\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
